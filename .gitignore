@@ -9,10 +9,9 @@ __pycache__/
 *.pid
 
 # Material data files: keep folder structure only
-material/*
+material/**
 !material/.gitkeep
 !material/其他资源清单/
 !material/其他利用率/
 !material/其他资源清单/.gitkeep
 !material/其他利用率/.gitkeep
-
